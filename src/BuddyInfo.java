@@ -19,6 +19,6 @@ public class BuddyInfo {
 		this.a = a;
 	}
 
-dd 
+
 
 }
