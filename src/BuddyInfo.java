@@ -19,6 +19,8 @@ public class BuddyInfo {
 		this.a = a;
 	}
 
-
+	public void ddd(int a) {
+		this.a = a;
+	}
 
 }
